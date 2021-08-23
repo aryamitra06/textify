@@ -62,7 +62,7 @@ const toggleMode = () => {
           <Route exact path="/about">
             <About/>
           </Route>
-          <Route exact path="/">
+          <Route exact path="/textify">
             <Textform heading = "" showAlertinTextForm = {showAlert} TextformMode={mode}/>
           </Route>
 </Switch>
