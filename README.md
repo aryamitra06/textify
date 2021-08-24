@@ -1,4 +1,4 @@
-# Textify - Analyze Text | React Application
+# Textify v1.0.0 - Analyze Text | React Application
 ### `About`
 Textify, an open-source application which helps to analyze texts by removing extra spaces, lower case, upper case and many more. 
 
