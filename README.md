@@ -2,6 +2,7 @@
 ### `About`
 Textify, an open-source application which helps to analyze texts by removing extra spaces, lower case, upper case and many more. 
 
+### `Screenshots`
 ![image](https://user-images.githubusercontent.com/79497113/130666315-c319d606-bff4-4332-9fdf-90a71b9879f9.png)
 
 
